@@ -1,0 +1,2 @@
+# EMASS_AI_MODULE_MIDDELWARE
+EMASS AI Module Middleware
